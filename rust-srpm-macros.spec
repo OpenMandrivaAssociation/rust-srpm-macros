@@ -1,7 +1,7 @@
 Summary:        RPM macros for building Rust source packages
 Name:		rust-srpm-macros
-Version:	18
-Release:	2
+Version:	23
+Release:	1
 Group:		System/Packaging
 License:	MIT
 URL:		https://pagure.io/fedora-rust/rust2rpm
